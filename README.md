@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Dr Awais Javed — Cyberion</h1>
+<h1 align="center">Hi, I'm Doc-Tor Awais Javed </h1>
 <h3 align="center">AI Solution Architect – AI Engineer & Cybersecurity</h3>
 
 <p align="left">
