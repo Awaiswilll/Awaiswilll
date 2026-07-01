@@ -19,11 +19,11 @@ I'm a cybersecurity researcher at **National University of Sciences and Technolo
 ## What I Build
 | Focus | Projects |
 |-------|----------|
-| **AI/ML Security** | DGA detection with AdamW+, LLM vulnerability scanning, adversarial testing |
-| **AI Pentesting Agents** | Newton, EVA, METATRON, phalanx, Shannon |
+| **AI/ML Security** | LLM vulnerability scanning, adversarial LLM testing |
+| **AI Pentesting Agents** | Newton, LLMTest |
 | **OSINT & Threat Intel** | MITRE ATT&CK, global threat maps, DARKWEB_CRAWLER |
 | **Red Teaming** | Claude-BugHunter, BoxPwnr, RedTeam-Tools |
-| **AI Agent Harnesses** | opencode-harness (80+ agents, 260+ skills) |
+| **AI Agent** | Claude, Codex ,opencode (80+ agents, 260+ skills) |
 
 ## AI, LLM Security, Cyber Security and Network Security
 
