@@ -1,56 +1,31 @@
-<h1 align="center">Hi, I'm Doc-Tor Awais Javed </h1>
-<h3 align="center">AI Solution Architect – AI Engineer & Cybersecurity</h3>
+# 💫 About Me:
+🔭 I'm a Cybersecurity Researcher & AI Solution Architect at NUST<br>👯 I'm open to collaborating on AI/ML security, red teaming & agentic AI<br>🤝 I try to solve real-world problems at the intersection of AI and cybersecurity<br>🌱 I'm currently learning adversarial machine learning & autonomous AI agents<br>⚡ Fun fact: "Be kind and creative to serve mankind."
 
-<p align="left">
-<a href="https://www.linkedin.com/in/dr-awaisj/" target="blank">LinkedIn</a> |
-<a href="https://scholar.google.com/citations?user=HvFNfNkAAAAJ&hl=en" target="blank">Google Scholar</a>
-</p>
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=Awaiswilll)
 
-I'm a cybersecurity researcher at **National University of Sciences and Technology (NUST)**, focused on the intersection of **artificial intelligence and security** — from adversarial machine learning and DGA malware detection to AI-powered penetration testing.
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dr-awaisj/) [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=HvFNfNkAAAAJ&hl=en) [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/Awaiswilll)
 
-## Research (Google Scholar)
-- **66+ citations** from 5 publications
-- **AdamW+**: Novel optimizer for deep learning-based DGA malware detection (IEEE Access, 2024)
-- 5G security artifacts — DoS/DDoS detection & authentication (ComTech 2019)
-- Security-as-a-Service CRAN architectures for 5G networks
-- AI-driven cyber defense and autonomous threat intelligence
-- Advanced Penetration Testing
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Hugging Face](https://img.shields.io/badge/HuggingFace-%23FFD21E.svg?style=for-the-badge&logo=huggingface&logoColor=black) ![OpenAI](https://img.shields.io/badge/OpenAI-%23412991.svg?style=for-the-badge&logo=openai&logoColor=white) ![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230080FF.svg?style=for-the-badge&logo=digitalocean&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white) ![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white) ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Awaiswilll&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Awaiswilll&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Awaiswilll&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## What I Build
-| Focus | Projects |
-|-------|----------|
-| **AI/ML Security** | LLM vulnerability scanning, adversarial LLM testing |
-| **AI Pentesting Agents** | Newton, LLMTest |
-| **OSINT & Threat Intel** | MITRE ATT&CK, global threat maps, DARKWEB_CRAWLER |
-| **Red Teaming** | Claude-BugHunter, BoxPwnr, RedTeam-Tools |
-| **AI Agent** | Claude, Codex ,opencode (80+ agents, 260+ skills) |
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-## AI, LLM Security, Cyber Security and Network Security
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Awaiswilll&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-As the Projects Implementation Lead, I oversee the execution of complex IT infrastructure and cybersecurity projects — from inception to completion. I coordinate cross-functional teams, ensure adherence to best practices, and deliver within timelines and budgets.
+---
+[![](https://visitcount.itsvg.in/api?id=Awaiswilll&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Awaiswilll&show_icons=true&locale=en" alt="Awaiswilll" />
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Awaiswilll" alt="Awaiswilll" />
-
-## Contribution Graph
-
-<img align="center" src="https://github.com/Awaiswilll/Awaiswilll/blob/output/github-contribution-grid-snake.svg" alt="snake eating the contribution graph" />
-<img align="center" src="https://github.com/Awaiswilll/Awaiswilll/blob/output/github-contribution-grid-snake-dark.svg" alt="snake eating the contribution graph (dark)" />
-
-
-I am an **AI Solutions Architect** and **Platforms Integrator** with **Doctoral qualification**, specializing in the intersection of AI infrastructure and advanced cybersecurity.
-
-### Core Professional Focus
-- **Cybersecurity Leadership:** Multi-layered security architectures, XDR/EDR deployments (Trend Micro Vision One)
-- **Cloud Infrastructure & Migration:** AWS, Azure, Digital Ocean — for enterprises like Jazz, EY, Vodafone
-- **Network & Virtualization:** VMware Cloud Foundation (VCF), NSX architecture
-- **Public Sector & Critical Infrastructure:** Secure data center deployments for Pakistan Navy, Islamabad Police
-
-### Technologies
-- **AI Engineering:** Agentic AI, Claude, opencode, Ollama, Gemini, DeepSeek, OpenAI
-- **Security:** Network Security, Email Security Gateways, XDR/EDR
-- **Networking:** SIP, MPLS, Core Routing
-- **Cloud:** AWS, Azure, Digital Ocean, Private Cloud (VMware/Fortinet)
-
-> *"Be kind and creative to serve mankind."*
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Awaiswilll/Awaiswilll/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Awaiswilll/Awaiswilll/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Awaiswilll/Awaiswilll/output/github-contribution-grid-snake.svg" />
+</picture>
