@@ -33,6 +33,12 @@ As the Projects Implementation Lead, I oversee the execution of complex IT infra
 
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Awaiswilll" alt="Awaiswilll" />
 
+## Contribution Graph
+
+<img align="center" src="https://github.com/Awaiswilll/Awaiswilll/blob/output/github-contribution-grid-snake.svg" alt="snake eating the contribution graph" />
+<img align="center" src="https://github.com/Awaiswilll/Awaiswilll/blob/output/github-contribution-grid-snake-dark.svg" alt="snake eating the contribution graph (dark)" />
+
+
 I am an **AI Solutions Architect** and **Platforms Integrator** with **Doctoral qualification**, specializing in the intersection of AI infrastructure and advanced cybersecurity.
 
 ### Core Professional Focus
