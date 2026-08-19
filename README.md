@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm a Cybersecurity Researcher & AI Solution Architect at NUST<br>👯 I'm open to collaborating on AI/ML security, red teaming & agentic AI<br>🤝 I try to solve real-world problems at the intersection of AI and cybersecurity<br>🌱 I'm currently learning adversarial machine learning & autonomous AI agents<br>⚡ Fun fact: "Be kind and creative to serve mankind."
+🔭 I'm a Cybersecurity Researcher & AI Solution Architect at Bahria University/ NUST<br>👯 I'm open to collaborating on AI/ML security, red teaming & agentic AI<br>🤝 I try to solve real-world problems at the intersection of AI and cybersecurity<br>🌱 I'm currently learning adversarial machine learning & autonomous AI agents<br>⚡ Fun fact: "Be kind and creative."
 
 ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=Awaiswilll)
 
